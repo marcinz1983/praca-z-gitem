@@ -8,5 +8,6 @@ public class Main {
 	// write your code here
         System.out.println("pierwsza zmiana");
         System.out.println("dodanie drugiej zmiany");
+        System.out.println("dodanie 3 zmiany do master");
     }
 }
