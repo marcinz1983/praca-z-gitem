@@ -9,5 +9,6 @@ public class Main {
         System.out.println("pierwsza zmiana");
         System.out.println("dodanie drugiej zmiany");
         System.out.println("zmiany na test1");
+        System.out.println("drugazmian na test2");
     }
 }
